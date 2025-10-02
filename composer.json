@@ -17,6 +17,10 @@
       },
       {
         "type": "vcs",
+	"url": "https://github.com/sabersma/eveseat-api"
+      },
+      {
+        "type": "vcs",
 	"url": "https://github.com/sabersma/eveseat-web"
       }
     ],
@@ -25,7 +29,7 @@
         "guzzlehttp/guzzle": "^7.2",
         "laravel/framework": "^10.0",
         "laravel/tinker": "^2.7",
-        "eveseat/api": "^5.0",
+        "eveseat/api": "dev-feature-sfi",
         "eveseat/eveapi": "^5.0",
         "eveseat/notifications": "dev-hotfix/5.0.15",
         "eveseat/services": "^5.0",
